@@ -18,6 +18,7 @@ dependencies:
   - pandas
   - rasterio
   - xarray
+  - pyvistaqt
   - pip
   - pip:
     - pyct
